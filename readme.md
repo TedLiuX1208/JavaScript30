@@ -4,6 +4,7 @@ Javascript 是一個線上JS挑戰，我們將利用30天每天實做一個簡�
 
 更多可以參考 https://JavaScript30.com  
 
-| Project | Introduce | Demo | Read More | 
-| ------- | --------- | ---- | --------- | 
-| Drum kit | 監控鍵盤 / 發出音效 |   |    |
+| Prgoress | Project | Introduce | Demo | Read More | 
+| ------- |------- | --------- | ---- | --------- | 
+| - [x] | Drum kit | 監控鍵盤 / 發出音效 / Css 特效| |    |
+| - [x] | Js Clock | Date 物件 / SetInterval | | |
